@@ -59,5 +59,5 @@ Inventory Management: Align stock levels with products showing high demand durin
 
 📸 Attached dashboards (Page):
 
-Page: ![Page]((https://github.com/PratiikJagtap/Atliq-Mart-Retail-Dashboard/blob/main/Snapshot%20of%20dashboard.png))
+Page: ![Page](https://github.com/PratiikJagtap/Atliq-Mart-Retail-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
 
