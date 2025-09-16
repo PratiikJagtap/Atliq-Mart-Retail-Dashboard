@@ -10,11 +10,11 @@ The AtliQ Mart Dashboard helps business stakeholders understand how promotional 
 3. Tech Stack
    
 The dashboard was built using the following tools and technologies:
-  Power BI Desktop → Data visualization & dashboard creation
-  Power Query → Data cleaning & transformation
-  DAX (Data Analysis Expressions) → Custom measures for revenue, lift, and     trends
-  Data Modeling → Relationships across sales, product, and store datasets
-  File Formats → .pbix (development), .png (dashboard snapshots)
+Power BI Desktop → Data visualization & dashboard creation
+Power Query → Data cleaning & transformation
+DAX (Data Analysis Expressions) → Custom measures for revenue, lift, and     trends
+Data Modeling → Relationships across sales, product, and store datasets
+File Formats → .pbix (development), .png (dashboard snapshots)
 
 5. Data Source
 Provided dataset from AtliQ Mart sales system.
@@ -59,5 +59,5 @@ Inventory Management: Align stock levels with products showing high demand durin
 
 📸 Attached dashboards (Page):
 
-Page: ![Page]([https://github.com/PratiikJagtap/Data-Analysis-Project-1/blob/main/Snapshot%20of%20Dashboard%20page%201.png](https://github.com/PratiikJagtap/Atliq-Mart-Retail-Dashboard/blob/main/Snapshot%20of%20dashboard.png))
+Page: ![Page]((https://github.com/PratiikJagtap/Atliq-Mart-Retail-Dashboard/blob/main/Snapshot%20of%20dashboard.png))
 
